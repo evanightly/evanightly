@@ -29,7 +29,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=kryptonforce-service-online" />
 </a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanhendersonrichtbyte&layout=compact&hide=html" alt="evanhendersonrichtbyte" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=evanhendersonrichtbyte&show_icons=true" alt="evanhendersonrichtbyte" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanhendersonrichtbyte&layout=default&hide=html" alt="evanhendersonrichtbyte" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=evanhendersonrichtbyte&show_icons=true" alt="evanhendersonrichtbyte" />
 
 <p align="center">
 <a href="https://stackoverflow.com/users/evan-henderson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="evan-henderson" height="30" width="30" /></a>
