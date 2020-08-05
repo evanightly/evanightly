@@ -1,5 +1,4 @@
-![evan henderson (1)](https://user-images.githubusercontent.com/58504115/89396634-00844e80-d739-11ea-9ea5-e39401b023ea.png)
-
+![Photo Background Twitch Banner](https://user-images.githubusercontent.com/58504115/89398505-67a30280-d73b-11ea-987c-eec20f06a7d4.png)
 
 <!--
 **EvanHendersonRichtByte/EvanHendersonRichtByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
