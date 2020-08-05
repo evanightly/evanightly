@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
 
 <h1 align="center">Hi 👋, I'm Evan Henderson</h1>
-<h3 align="center">A dedicated frontend developer from Indonesia</h3>
+<h3 align="center">A dedicated fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanhendersonrichtbyte" alt="evanhendersonrichtbyte" /> </p>
 
