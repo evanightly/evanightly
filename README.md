@@ -24,15 +24,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanhendersonrichtbyte&layout=default&hide=html" alt="evanhendersonrichtbyte" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=evanhendersonrichtbyte&show_icons=true" alt="evanhendersonrichtbyte" />
 
-<br>
-
-<a href="https://github.com/EvanHendersonRichtByte/support-system">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=support-system" />
-</a>
-<a href="https://github.com/EvanHendersonRichtByte/keep-it-simple-rental-online">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=keep-it-simple-rental-online" />
-</a>
-
 <!--
 **EvanHendersonRichtByte/EvanHendersonRichtByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
