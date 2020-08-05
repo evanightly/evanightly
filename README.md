@@ -22,20 +22,14 @@
 
 - ⚡ Fun fact **im a former csgo player**
 
-<a href="https://github.com/evanhendersonrichtbyte">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=support-system" />
-</a>
-<a href="https://github.com/evanhendersonrichtbyte">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=kryptonforce-service-online" />
-</a>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanhendersonrichtbyte&layout=default&hide=html" alt="evanhendersonrichtbyte" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=evanhendersonrichtbyte&show_icons=true" alt="evanhendersonrichtbyte" />
 
-<p align="center">
-<a href="https://stackoverflow.com/users/evan-henderson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="evan-henderson" height="30" width="30" /></a>
-<a href="https://instagram.com/actual999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="actual999" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/adam henderson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="adam henderson" height="30" width="30" /></a>
-</p>
+<a href="https://github.com/EvanHendersonRichtByte/support-system">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=support-system" />
+</a>
+<a href="https://github.com/EvanHendersonRichtByte/keep-it-simple-rental-online">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=keep-it-simple-rental-online" />
+</a>
 
 <!--
 **EvanHendersonRichtByte/EvanHendersonRichtByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
