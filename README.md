@@ -22,6 +22,13 @@
 
 - ⚡ Fun fact **im a former csgo player**
 
+<a href="https://github.com/evanhendersonrichtbyte">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=support-system" />
+</a>
+<a href="https://github.com/evanhendersonrichtbyte">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EvanHendersonRichtByte&repo=kryptonforce-service-online" />
+</a>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanhendersonrichtbyte&layout=compact&hide=html" alt="evanhendersonrichtbyte" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=evanhendersonrichtbyte&show_icons=true" alt="evanhendersonrichtbyte" />
 
 <p align="center">
