@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [support system](https://github.com/EvanHendersonRichtByte/support-system)
 
-- 🌱 I’m currently learning **laravel, css**
+- 🌱 I’m currently learning **python, c**
 
 - 👯 I’m looking to collaborate on [kryptonforce service online](https://github.com/EvanHendersonRichtByte/kryptonforce-service-online)
 
