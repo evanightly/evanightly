@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I hate maths**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanhendersonrichtbyte&layout=default&hide=html" alt="evanhendersonrichtbyte" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=evanhendersonrichtbyte&show_icons=true" alt="evanhendersonrichtbyte" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanightly&layout=default&hide=html" alt="evanightly" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=evanightly&show_icons=true" alt="evanightly" />
 
 <!--
 **EvanHendersonRichtByte/EvanHendersonRichtByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
