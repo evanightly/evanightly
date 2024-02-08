@@ -13,7 +13,7 @@
 
 - 🤔 I’m looking for help with [support system](https://github.com/evanightly/support-system)
 
-- 👨‍💻 All of my projects are available at [github.com/EvanHendersonRichtByte/](github.com/evanightly/)
+- 👨‍💻 All of my projects are available at [github.com/evanightly/](https://github.com/evanightly?tab=repositories)
 
 - 💬 Ask me about **react, node, laravel**
 
