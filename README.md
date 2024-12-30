@@ -17,9 +17,15 @@
 
 - 💬 Ask me about **react, node, laravel**
 
-- 📫 How to reach me **adamhenderson3x3@gmail.com**
+## 📈 GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanightly&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanightly&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanightly&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/galurarasy/) | [Email](mailto:adamhenderson3x3@gmail.com)
 
 <!--
 **EvanHendersonRichtByte/EvanHendersonRichtByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
