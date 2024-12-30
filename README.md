@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **adamhenderson3x3@gmail.com**
 
-- ⚡ Fun fact **I hate maths**
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanightly&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
